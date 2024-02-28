@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width = device-width, initial-scale=1.0">
+   <title>meu site acessivel</title> 
+   <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>ACESSIBILIDADE</h1>
+        <nav>
+            <ul>
+                <li><a href="#conteudo">INICIO</a></li>
+                <li><a href="sobre">SOBRE</a></li>
+                <li><a href="#contato">CONTATO</a></li>
+            </ul>
+        </nav>
+        <div class="font-size-controls">
+            <button id="decreaseFontSizeButton">-</button>
+            <button id="decreaseFontSizeButton">+</button>
+            <button id="decreaseFontSizeButton">cores vivas</button>
+        </div>
+    </header>
+    <main id="conteudo">
+        <h2>conteudo principal de pagina</h2>
+        <p>OLÁ! BEM VINDO!</p>
+        <p>ESTE É UM EXEMPLO SIMPLES DE SITE ACESSIVEL</p>
+
+        <form>
+            <label for="name">nome:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="name">email:</label>
+            <input type="text" id="email" name="email" required>
+
+            <label for="name">texto:</label>
+            <input type="text" id="texto" name="texto" required>
+
+            <button type="submit">enviar</button>
+        </form>
+    </main>
+    <footer>
+        <p>2024</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
