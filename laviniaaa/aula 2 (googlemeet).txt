@@ -1,0 +1,75 @@
+1. Perguntas Conceituais:
+ a) O que é ética e qual é sua importância nas relações entre grupos de pessoas?
+ b) Por que é importante que a ética esteja presente em todas as organizações, independentemente do seu tamanho?
+ c) Qual é o propósito principal do código de ética organizacional em uma empresa?
+
+
+2. Identificação de Componentes do Código de Ética:
+ a) Liste três elementos que geralmente estão incluídos em um código de ética organizacional.
+ b) Explique a importância de cada um dos seguintes elementos em um código de ética: valores, direitos, deveres e comportamentos esperados.
+ c) Por que é essencial que um código de ética reflita os valores, a visão e a missão de uma organização?
+
+
+3. Aplicação Prática:
+ a) Escolha uma empresa fictícia e crie um exemplo de situação em que o código de ética organizacional seria relevante e útil.
+ b) Como um funcionário poderia usar o código de ética organizacional para orientar seu comportamento em uma situação ética desafiadora?
+ c) Discuta uma estratégia para implementar e promover a adesão ao código de ética em uma empresa.
+
+
+
+1- a)Ética é o conjunto de princípios morais que orientam o comportamento humano, determinando o que é certo e errado, bom ou mau, justo ou injusto. Sua importância nas relações entre grupos de pessoas
+ reside no estabelecimento de padrões de conduta que promovam o respeito, a justiça, a cooperação e a harmonia social, contribuindo para relações saudáveis, equilibradas e éticas entre os membros desses grupos.
+
+b)É importante que a ética esteja presente em todas as organizações, independentemente do tamanho, porque promove uma reputação positiva, ajuda na retenção de talentos, assegura conformidade legal, facilita relações
+ interpessoais saudáveis, melhora a cultura organizacional e contribui para a sustentabilidade a longo prazo.
+
+c)O propósito principal do código de ética organizacional em uma empresa é estabelecer diretrizes e princípios morais que orientem o comportamento dos funcionários, promovendo integridade, transparência,
+ conformidade legal e uma cultura corporativa baseada em valores éticos sólidos.
+
+
+ 
+2- a) Três elementos comuns em um código de ética organizacional são:
+Princípios e valores fundamentais.
+Normas de conduta.
+Mecanismos de cumprimento e consequências.
+
+
+b) Valores: São a base moral que guia as ações e decisões, promovendo uma cultura organizacional ética e compartilhada.
+Direitos: Garantem que todas as partes envolvidas sejam respeitadas e protegidas dentro da organização.
+Deveres: Representam as responsabilidades individuais e coletivas na promoção do bem-estar organizacional e social.
+Comportamentos Esperados: Estabelecem padrões de conduta ética e profissional, promovendo um ambiente de trabalho saudável e produtivo.
+
+
+c) É essencial que um código de ética reflita os valores, a visão e a missão de uma organização para garantir coerência, orientação moral,
+consistência na tomada de decisões, fortalecimento da cultura organizacional e construção de reputação e credibilidade.
+
+
+3- a)Empresa: TechSol
+
+Situação: Um desenvolvedor descobre uma vulnerabilidade em um produto da empresa que pode comprometer a segurança dos dados dos clientes, mas corrigi-la atrasaria o lançamento do produto, causando prejuízo
+financeiro e insatisfação dos clientes.
+
+Relevância do Código de Ética:
+
+Valores Organizacionais: Destaca a integridade e responsabilidade, priorizando a segurança dos clientes.
+Normas de Conduta: Orienta os funcionários a reportar preocupações éticas, mesmo que isso envolva sacrificar prazos e receitas.
+Mecanismos de Cumprimento: Fornece canais para relatar a questão de forma confidencial e protegida contra retaliação.
+Consequências: Estabelece possíveis medidas disciplinares para não cumprir os padrões éticos da empresa.
+Resumo: O código de ética da TechSol orienta o desenvolvedor a agir em conformidade com os valores da empresa, garantindo a integridade e segurança dos clientes, mesmo diante de desafios financeiros e de cronograma.
+
+
+b)Um funcionário pode usar o código de ética organizacional para orientar seu comportamento em uma situação ética desafiadora, revisando o código para identificar os valores relevantes, avaliando a situação,
+tomando uma decisão ética alinhada com os valores da empresa, utilizando os recursos do código de ética para relatar preocupações éticas e aceitando as consequências de suas ações.
+
+
+c)Uma estratégia para implementar e promover a adesão ao código de ética em uma empresa inclui:
+
+Desenvolvimento claro do código de ética.
+Comunicação eficaz do código de ética.
+Treinamento e capacitação dos funcionários.
+Incentivos e reconhecimento para comportamento ético.
+Monitoramento e aplicação consistente das políticas éticas.
+Revisão e atualização periódica do código de ética para garantir relevância e eficácia contínuas.
+
+
+
