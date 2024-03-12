@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name = "vieport"content="width=device-width,initial-scale=1.0">
+    <title>formulário de inscrição</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>    
+<body>
+    <div class="container">
+        <h2>Formulário De Inscrição</h2>
+        <form id="registrationForm" onsubmit="return validateform()">
+        <!-- este é o formulario onde vc digita suas informacoes quando clica em 'enviar' ele verifica se vc preencheu tudo corretamente -->
+    
+        <h2>informacoes pessoais</h2>
+        <label for=""fullname">nome completo:</label>
+        <!--este pedaco de texto que diz ao usuario oq digitar-->
+        <input type="text" id="fullname" name="fullname" required>
+        <span id="fullnameerror" class="error"></span>
+
+        <!--genero-->
+        <label for=""gender'>genero:</label>
+        <select id=""gender" name=""gender" required>
+            <option value="">selecione...</option>
+            <option value="male">masculino</option>
+            <option value="female">feminino</option>
+            <option value="other">outros</option>
+        </select>
+        <span id="gendererror" class="error"></span>
+
+        <!--endereco-->
+        <label for="address">endereço completo:</label>
+        <input type="text" id="address" name="address" required>
+        <span id="addresserror" class="error"></span>
+
+        <!--numero de telefone-->
+        <label for=""phonenumber"> numero de telefone</label>
+        <input type="tel" id="phonenumber" name="phonenumber" required>
+        <span id="phonenumbererror" class="error"></span>
+
+        <!--email-->
+        <label for="email"> e-mail:</label>
+        <input type="email" id="email" name="email" required>
+        <span id="emailerror" class="error"></span>
+                      
+        <!--informacoes academicas-->
+        <label for="schoolname"> nome da ecola atual:</label>
+        <input type="schoolname" id="schoolname" name="schoolname" required>
+        <span id="schoolnameerror" class="error"></span>
+
+        <label for="grade"> serie atual:</label>
+        <input type="grade" id="grade" name="grade" required>
+        <span id="gradeerror" class="error"></span>
+
+        <label for="guardianname"> nome do responsavel:</label>
+        <input type="guardianname" id="guardianname" name="guardianname" required>
+        <span id="guardiannameerror" class="error"></span>
+
+        <label for="guardiancontact"> contato do responsavel:</label>
+        <input type="guardiancontact" id="guardiancontact" name="guardiancontact" required>
+        <span id="guardiancontact" class="error"></span>
+
+        <label for="cpf"> CPF :</label>
+        <input type="cpf" id="cpf" name="cpf" required>
+        <span id="cpferror" class="error"></span>
+
+        <label for="rg"> RG :</label>
+        <input type="rg" id="rg" name="rg" required>
+        <span id="rgerror" class="error"></span>
+
+        <input type="submit" value="enviar"> <!--este é o botao que vc clicaquando termina de preencher o formulario-->
+
+        </form>
+    </div>
+</script src="script.js"></script>
+</body>
+</html>
+    
+
+
+
+        
+
+
+
+
+        
+
+
+
+    </form>
+    </div>
+</body>
+</html>
