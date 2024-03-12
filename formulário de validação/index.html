@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário de Validação</title>
+    <link rel="stylesheet" type="text/css"href="estilo.css">
+</head>
+<body>
+    <center>
+    <h2>Formulário de validação</h2>
+   
+    <form action="#" method="post" id="form-pedido">
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" required><br><br>
+
+
+        <label for="data de nascimento">Data de nascimento</label>
+        <input type="text" id="data de nascimento" name="data de nascimento" placeholder="dd/mm/aaaa" required><br><br>
+        
+
+        <label for="genero">Gênero</label>
+        <select id="genero" name="genero" required>
+            <option value="">Selecione o gênero</option>
+            <option value="masculino">Masculino</option>
+            <option value="feminino">Feminino</option>
+            <option value="outro">Outro</option>
+        </select><br><br>
+
+
+        <label for="endereço">Endereço:</label>
+        <input type="tel" id="telefone" name="telefone" pattern="[0-9]{10}" requered><br><br>
+
+
+        <label for="telefone">Telefone:</label>
+        <input type="tel" id="telefone" name="telefone" pattern="[0-9]{10}" required><br>
+
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email"><br><br>
+
+
+        <label for="escola">Nome da Escola:</label>
+        <input type="text" id="escola" name="escola"><br><br>
+
+        <label for="série">Série Atual:</label>
+        <input type="text" id="série" name="série"><br><br>
+
+        <label for="nome do responsavel">Nome do Responsável:</label>
+        <input type="text" id="nome do responsavel" name="nome do responsavel"><br><br>
+
+        <label for="cpf">CPF:</label>
+        <input type="text" id="cpf" name="cpf" placeholder="000.000.000-00"><br><br>
+
+        <label for="rg">RG:</label>
+        <input type="text" id="rg" name="rg" required>
+
+        <input type="submit" value="Enviar">
+</form>
+
+<script src="script.js"></script>
+</center>
+</body>
+</html>
+    
+
+
