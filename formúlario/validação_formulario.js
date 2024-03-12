@@ -30,8 +30,30 @@ document.addEventListener('DOMContentLoaded', function(){
             showError('por favor,insira um numero valido')
         }
 
-        if(tamanho)
+        if(tamanho === ''){
+            isValid = false;
+            showError('por favor,insira o tamanho da pizza')
+        }
+
+        if(sabor === ''){
+            isValid = false;
+            showError('por favor,insira o sabor da pizza')
+        }
+
+        if(isValid){
+            event.preventDefault();
+            showSucessPopup();
+        }else{
+            event.preventDefault();
+        }
            
     }
+};
+
+function showError(message){
+    alert(message);
+}
+function showSucessPopup(){
+    alert('pedido enviado com sucesso!! :))) ');
 }
 
