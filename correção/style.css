@@ -1,0 +1,62 @@
+body { /* aplica a todo o corpo da página*/
+    font-family: 'Segoe UI','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0; /*remove qualquer margin ao redor do corpo da página*/
+    padding: 0;/* remove qualquer preenchimento interno*/
+    background-color: hotpink;
+}
+
+.container { /* caixa onde esta os formularios*/
+    max-width: 500px;/*define a largura maxima da caixa*/
+    margin: 50px auto;/* centraliza a caixa horizontalmente*/
+    padding: 20px;/* adiciona um espaço interno ao redor do conteudo da caixa */
+    border: 1px solid #eee;/* borda ao redor da caixa */
+    border-radius: 10px;/* arredonda os cantos da caixa */
+    background-color: aliceblue;/* define a cor de fundo da caixa */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);/* adiciona uma sombra a caixa */
+}
+
+label{
+    display: block;
+    margin-bottom: 10px;
+    color:blueviolet;
+}
+
+input[type="text"],/* campo de entrada*/
+input[type="email"],
+input[type="tel"],
+input[type="date"],
+select{
+    width:calc(100% - 16px); /*define a largura dos campos*/
+    padding: 10px; /*adiciona um preenchimento interno dentro de cada campo*/
+    margin-bottom: 20px; /* adiciona um espaço abaixo de cada campo*/
+    border: 1 px solid #ccc; /* adiciona uma borda sólida ao redor dos campos*/
+    border-radius: 6px; /* arredonda os cantos*/
+    background-color: cornflowerblue;
+    box-sizing: border-box; /* garante que o preenchimento e a borda sejam 
+    incluidos na largura total do campo de entrada*/
+    color:rgb(0, 0, 0);
+}
+
+input[type="submit"]{ /*botão de envio*/
+    width: 100%; /* largura do botão*/
+    background-color: rgb(45, 199, 153); 
+    color:rgb(255, 255, 255);
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+    cursor:pointer; /* altera o cursor do mouse para uma mãozinha quando passa
+    sobre o botão*/
+    transition: background-color 0.3s ease; /* adiciona uma transição suave para a mudança
+    de cor de fundo quando o mouse passa sobre o botão*/
+}
+
+input[type = "submit"]:houver{
+    background-color: darkmagenta;
+
+}
+
+.error {
+    color:deeppink;
+    font-size: 12px;
+    margin-top: 5px;
+}
