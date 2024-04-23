@@ -1,0 +1,50 @@
+.fundomenu{
+    /*background-color: rgb(241, 156, 234);*/
+    background-color: rgb(247, 178, 161);
+}
+
+.button{
+    background-color: rgb(252, 139, 104);
+    border-color: #ffcef7;
+    color: rgb(255, 220, 252);
+} 
+.bg-color {
+    /*background-color: #f7b6e3; */
+    /*background-color: #ffffff; */
+    background-color: rgb(250, 203, 191);
+    
+    }
+
+    .btn-pink{
+       /* background-color: rgb(252, 104, 104) !important;  muda a cor do botão quando o mouse está sobre ele */
+        background-color:  rgb(252, 139, 104) !important;
+    }
+    
+    .btn-pink:hover{
+        background-color: rgb(255, 115, 72) !important; /* muda a cor do botão quando o mouse está sobre ele */
+    }
+ 
+
+.bg-color-home {
+    background-color: #ffffff; 
+        
+    }
+
+.bg-color-home-dark {
+    background-color: rgb(173, 138, 129); 
+    color: white;
+    }
+
+    .bg-color-home-dark {
+        background-color: rgb(173, 138, 129); 
+        color: rgb(250, 203, 191);
+        }
+
+        .bg-color-home-dark {
+            background-color: rgb(173, 138, 129); 
+            color: rgb(250, 203, 191);
+            }
+    
+.fundomenu-home{
+    background-color: rgb(247, 178, 161);
+}
